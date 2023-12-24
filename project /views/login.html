@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form Submission</title>
+    <link rel="stylesheet" href="/loginstyle.css ">
+
+</head>
+<body>
+    <!-- <form action="/submit" method="post">
+        <label for="name">Name:</label>
+        <input type="text" id="name" name="name" required><br><br>
+        <label for="password">Password:</label>
+        <input type="password" id="password" name="password" required><br><br>
+        <input type="submit" value="Submit">
+    </form> -->
+
+   <!------------------------- N E W -------------------------------->
+   <div class="container">
+    <!-- code here -->
+    <div class="card">
+        <div class="card-image">	
+            <h2 class="card-heading">
+                Get started
+                <small>Let us create your account</small>
+            </h2>
+        </div>
+        <form action="/submit" method="post" class="card-form">
+            
+            <div class="input">
+                <label  for="name"  class="input-label">Full name</label>
+                <input type="text" id="name" name="name" class="input-field" value="" required/>               
+            </div>
+            
+            <div class="input">
+                <label for="email" class="input-label">Email</label>
+                <input type="text" id="email" class="input-field" value="" required/>               
+            </div>
+
+            <div class="input">
+                <label for="password" class="input-label">Password</label>
+                <input type="password" id="password" name="password" class="input-field" required/>                
+            </div>
+            
+            <div class="action">
+                <button type="submit" class="action-button" ><a style="color: aliceblue; text-decoration: none;" >Get started</a> </button>
+            </div>
+        </form>
+        <div class="card-info">
+            <p>By signing up you are agreeing to our <a href="#">Terms and Conditions</a></p>
+        </div>
+    </div>
+</div>
+
+
+</body>
+</html>

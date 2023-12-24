@@ -1,0 +1,39 @@
+#cv-template{
+    display:none;
+    background-image: none;
+}
+
+.myimg{
+
+    border-radius: 50%;
+    width: 200px;
+}
+.background{
+  background: rgb(240,141,223);
+  background: linear-gradient(90deg, rgba(240,141,223,1) 0%, rgba(30,205,241,1) 100%); 
+
+}
+/* #body{
+  background-image: url(/images/wp3344055-wallpaper-blue-beach.jpg);
+} */
+
+/* all the print reqired issues cleared here  */
+  
+  @media print {
+    body, #cv-template {
+        background-image: none;
+    }
+}
+
+@media print {
+  body {
+      background-image: none;
+  }
+}
+
+@media print {
+    #pcv {
+      display: none;
+    }
+  }
+  

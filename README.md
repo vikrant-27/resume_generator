@@ -8,8 +8,11 @@ Validations and separate fields for higher and lower academic qualifications hav
 
 *keep in mind - adding image to resume is cumpolsary (for time being),express packages & server file to be kept in project directory itself.
 
-^ Demonstration will be posted on linkedin soon ^ 
+^ Demonstration posted on LinkedIn ^ 
 -
-if you don't know about node modules , refer to my prvious project (form using modejs)
+
+(https://www.linkedin.com/posts/vikrantsarade_webdevelopment-html-css-activity-7144955847394185216-UP4d?utm_source=share&utm_medium=member_android )
+
+*if you don't know about node modules , refer to my prvious project (form using modejs)
 
 

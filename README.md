@@ -13,6 +13,6 @@ Validations and separate fields for higher and lower academic qualifications hav
 
 (https://www.linkedin.com/posts/vikrantsarade_webdevelopment-html-css-activity-7144955847394185216-UP4d?utm_source=share&utm_medium=member_android )
 
-*if you don't know about node modules , refer to my prvious project (form using modejs)
+*if you don't know about node modules , refer to my previous project (form using modejs)
 
 
